@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e557cd9f-ba59-4d39-9d86-dc9df0c65390" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-461573292">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.438" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sc" value="1" />
+          <entry key="scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sc" value="1818" />
+          <entry key="scala" value="188" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="2006" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week7/funprog2-wk2-5.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week7/Pouring.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="73" lean-forward="true" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Pouring.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/funprog2-wk2-5.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week7/funprog2-wk2-5.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week7/Pouring.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="week7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funprog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funprog" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="week7" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536635689341" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\skin\ws_ij\funprog\src\main\scala\week7" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="funprog" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="funprog [file:/C:/Users/skin/ws_ij/funprog/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="funprog-build [file:/C:/Users/skin/ws_ij/funprog/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3072981054020" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3312193820" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3771982881" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e557cd9f-ba59-4d39-9d86-dc9df0c65390" name="Default Changelist" comment="" />
+      <created>1536490519488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536490519488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1505295" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.15737705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="funprog" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week7/funprog2-wk2-5.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week7/Pouring.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="73" lean-forward="true" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
