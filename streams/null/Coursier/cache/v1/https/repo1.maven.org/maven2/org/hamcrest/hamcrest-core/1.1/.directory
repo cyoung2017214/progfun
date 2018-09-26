@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/hamcrest/hamcrest-core/1.1</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/hamcrest/hamcrest-core/1.1</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="hamcrest-core-1.1-sources.jar" title="hamcrest-core-1.1-sources.jar">hamcrest-core-1.1-sources.jar</a>                     2007-07-18 19:11       327      
+<a href="hamcrest-core-1.1-sources.jar.md5" title="hamcrest-core-1.1-sources.jar.md5">hamcrest-core-1.1-sources.jar.md5</a>                 2007-07-18 19:11        32      
+<a href="hamcrest-core-1.1-sources.jar.sha1" title="hamcrest-core-1.1-sources.jar.sha1">hamcrest-core-1.1-sources.jar.sha1</a>                2007-07-18 19:11        40      
+<a href="hamcrest-core-1.1.jar" title="hamcrest-core-1.1.jar">hamcrest-core-1.1.jar</a>                             2007-07-18 19:11     76643      
+<a href="hamcrest-core-1.1.jar.md5" title="hamcrest-core-1.1.jar.md5">hamcrest-core-1.1.jar.md5</a>                         2007-07-18 19:11        32      
+<a href="hamcrest-core-1.1.jar.sha1" title="hamcrest-core-1.1.jar.sha1">hamcrest-core-1.1.jar.sha1</a>                        2007-07-18 19:11        40      
+<a href="hamcrest-core-1.1.pom" title="hamcrest-core-1.1.pom">hamcrest-core-1.1.pom</a>                             2007-07-18 19:11       481      
+<a href="hamcrest-core-1.1.pom.md5" title="hamcrest-core-1.1.pom.md5">hamcrest-core-1.1.pom.md5</a>                         2007-07-18 19:11        32      
+<a href="hamcrest-core-1.1.pom.sha1" title="hamcrest-core-1.1.pom.sha1">hamcrest-core-1.1.pom.sha1</a>                        2007-07-18 19:11        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>
